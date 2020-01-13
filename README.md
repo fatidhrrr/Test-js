@@ -102,3 +102,4 @@
   * De plus le nom doit être reformaté en minuscule à l'exception de la première lettre 
   * Si les mots de passe ne sont pas identiques il recoit un message d'erreur
 # tjs
+# Test-js
